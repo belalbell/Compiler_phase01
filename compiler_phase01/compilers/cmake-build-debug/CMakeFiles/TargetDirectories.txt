@@ -1,0 +1,3 @@
+/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/CMakeFiles/compilers.dir
+/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/CMakeFiles/edit_cache.dir

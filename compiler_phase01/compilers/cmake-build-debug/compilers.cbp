@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="compilers"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="compilers">
+				<Option output="/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/compilers" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/Makefile&quot;  VERBOSE=1 compilers"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="compilers/fast">
+				<Option output="/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/compilers" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/Makefile&quot;  VERBOSE=1 compilers/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/belal/Downloads/mazen_compilers/compilers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/belal/Downloads/mazen_compilers/compilers/DFA.cpp">
+			<Option target="compilers"/>
+		</Unit>
+		<Unit filename="/home/belal/Downloads/mazen_compilers/compilers/DFA.h">
+			<Option target="compilers"/>
+		</Unit>
+		<Unit filename="/home/belal/Downloads/mazen_compilers/compilers/DFAAndTokens.cpp">
+			<Option target="compilers"/>
+		</Unit>
+		<Unit filename="/home/belal/Downloads/mazen_compilers/compilers/DFAAndTokens.h">
+			<Option target="compilers"/>
+		</Unit>
+		<Unit filename="/home/belal/Downloads/mazen_compilers/compilers/MinDFA.cpp">
+			<Option target="compilers"/>
+		</Unit>
+		<Unit filename="/home/belal/Downloads/mazen_compilers/compilers/MinDFA.h">
+			<Option target="compilers"/>
+		</Unit>
+		<Unit filename="/home/belal/Downloads/mazen_compilers/compilers/NFARules.cpp">
+			<Option target="compilers"/>
+		</Unit>
+		<Unit filename="/home/belal/Downloads/mazen_compilers/compilers/NFARules.h">
+			<Option target="compilers"/>
+		</Unit>
+		<Unit filename="/home/belal/Downloads/mazen_compilers/compilers/NFAToDFA.cpp">
+			<Option target="compilers"/>
+		</Unit>
+		<Unit filename="/home/belal/Downloads/mazen_compilers/compilers/NFAToDFA.h">
+			<Option target="compilers"/>
+		</Unit>
+		<Unit filename="/home/belal/Downloads/mazen_compilers/compilers/Node.cpp">
+			<Option target="compilers"/>
+		</Unit>
+		<Unit filename="/home/belal/Downloads/mazen_compilers/compilers/Node.h">
+			<Option target="compilers"/>
+		</Unit>
+		<Unit filename="/home/belal/Downloads/mazen_compilers/compilers/NonFiniteAutomata.cpp">
+			<Option target="compilers"/>
+		</Unit>
+		<Unit filename="/home/belal/Downloads/mazen_compilers/compilers/NonFiniteAutomata.h">
+			<Option target="compilers"/>
+		</Unit>
+		<Unit filename="/home/belal/Downloads/mazen_compilers/compilers/Symbol_table_builder.cpp">
+			<Option target="compilers"/>
+		</Unit>
+		<Unit filename="/home/belal/Downloads/mazen_compilers/compilers/Symbol_table_builder.h">
+			<Option target="compilers"/>
+		</Unit>
+		<Unit filename="/home/belal/Downloads/mazen_compilers/compilers/Test.cpp">
+			<Option target="compilers"/>
+		</Unit>
+		<Unit filename="/home/belal/Downloads/mazen_compilers/compilers/Test.h">
+			<Option target="compilers"/>
+		</Unit>
+		<Unit filename="/home/belal/Downloads/mazen_compilers/compilers/main.cpp">
+			<Option target="compilers"/>
+		</Unit>
+		<Unit filename="/home/belal/Downloads/mazen_compilers/compilers/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
